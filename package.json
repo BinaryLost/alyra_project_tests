@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.7.21"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.9",
+    "dotenv": "^16.0.1"
+  }
+}
